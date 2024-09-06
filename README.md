@@ -26,7 +26,8 @@ The objective of this project is to analyze the COVID-19 situation in India by l
 
 
 ## Dashboard Overview
-![alt text](assets/final_dashboard.png)
+![final_dashboard](https://github.com/user-attachments/assets/3fb6a63b-6d22-4db3-bdf5-248b4923640b)
+
 The Power BI dashboard includes the following key features:
 - *Summary Statistics*: Provides an overview of the total tested, confirmed cases of the variant, deaths and vaccinations over the states of India.
 - *Trend Analysis*: Visualizes trends over year, month and week for various metrics .
